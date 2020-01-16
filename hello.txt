@@ -1,7 +1,0 @@
-hello git
-abcde fff
-ogog
-dsfa
-s
-this is a new line
-aabb
